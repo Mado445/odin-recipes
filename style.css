@@ -1,0 +1,21 @@
+
+
+html{
+text-align: center;
+background-color: pink;
+}
+
+img{
+width: auto;
+height: 300px;
+
+}
+ul ,
+ol{
+font-weight: 700;
+font-size: 24px;
+}
+a{
+color: tomato;
+
+}
