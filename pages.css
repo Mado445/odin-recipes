@@ -1,27 +1,72 @@
 
-html{
-font: Verdana;
-font-size: 24px;
+body{
+    background:#faf5da;
+
+}
+
+
+.container{
+    background-color: #f5efcb;
+    width: 1000px;
+    margin: 16px auto;
+    padding: 8px;
+   
+    font-size: 20px;
+
+}
+
+h1{
+   
+    background: #ebe1a3;
+    text-align: center;
+    margin: 8px;
+    padding: 16px;
+    
+}
+
+h2{
+   
+    background:#ebe1a3;
+    text-align: center;
+    padding :6px ;
+
 }
 
 img{
-    width: 400px;
-    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    
+
+
 }
 
 ul ,
 ol{
-font-size: 26px;
-font-weight: bold;
-
+    font-size: 20px;
+    margin: 8px;
+    text-align: center;
+   
 
 }
 
 h2{
 
-    font-weight: bold;
-    font-size: 36px;
+    
     color: tomato;
+}
+
+p{
+    margin:0px auto;
+   
+
+}
+
+li{
+   
+    color: tomato;
+
 }
 
 a{

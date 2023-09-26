@@ -1,21 +1,58 @@
 
+body{
+background:#faf5da;
 
-html{
-text-align: center;
-background-color: pink;
 }
 
+.container{
+    background: #f3eecf;
+    width: 600px;
+    margin: 24px auto;
+    padding: 8px;
+   
+
+   
+}
+
+h1{
+    
+
+    margin: 8px;
+    padding: 8px ;
+    text-align: center;
+    background: #ebe1a3;
+    
+}
+
+
 img{
-width: auto;
-height: 300px;
+
+    width: 50%;
+    height: 300px;
+    display: block;
+    margin: 8px auto ;
+    
+    
 
 }
 ul ,
 ol{
-font-weight: 700;
-font-size: 24px;
+    color: #e4d355 ;
+    
+    margin: 8px;
+
 }
+
+
+li{
+    background-color:#f1e7a0 ;
+    color: #dac844 ;
+    text-align: center;
+    padding: 4px ;
+    margin: 4px;
+}
+
 a{
-color: tomato;
+    font-size: 18px;
 
 }

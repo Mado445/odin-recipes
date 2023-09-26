@@ -1,0 +1,25 @@
+*{
+margin: 10PX;
+padding: 0;
+border: 5PX solid red;
+}
+
+#first{
+background-color: blueviolet;
+border: 5px solid violet;
+margin: 60px;
+padding: 30px;
+
+
+}
+button{
+    padding: 50px;
+    margin: 10px;
+}
+
+#second{
+background-color: burlywood;
+border: 5px solid violet;
+margin: 120px;
+padding:30px;
+}
